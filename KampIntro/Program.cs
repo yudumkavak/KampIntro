@@ -6,6 +6,7 @@ namespace KampIntro
     {
         static void Main(string[] args)
         {
+
             //type safety - tip güvenliği
             // Do not repeat yourself- kendini tekrar etme
 
